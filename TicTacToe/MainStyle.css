@@ -1,0 +1,48 @@
+﻿body {
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+}
+
+#game {
+    text-align: center;
+}
+#board {
+    white-space: nowrap;
+    border-radius: 2px;
+    box-shadow: 10px 10px 20px #0006;
+    margin: 40px;
+    display: inline-block;
+    text-align: center;
+}
+.row{
+    font-size: 0;
+}
+.square {
+    aspect-ratio: 1/1;
+    font-family: sans-serif;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+    width: 98px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 1px solid black;
+}
+    .square:hover {
+        cursor: pointer;
+    }
+
+/* Labels */
+
+#lblInvalidMove {
+    color: red;
+    font-weight: bold;
+    font-size: x-large;
+}
+#lblTitle {
+    font-size: xx-large;
+}
+    #lblTitle:hover {
+        cursor: pointer;
+    }
