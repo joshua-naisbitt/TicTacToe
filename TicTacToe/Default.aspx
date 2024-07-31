@@ -19,19 +19,19 @@
             </div>
             <div id="board">
                 <div class="row">
-                    <asp:TextBox ID="txtSpaceUL" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
-                    <asp:TextBox ID="txtSpaceUM" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
-                    <asp:TextBox ID="txtSpaceUR" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtUL" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtUM" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtUR" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
                 </div>
                 <div class="row">
-                    <asp:TextBox ID="txtSpaceML" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
-                    <asp:TextBox ID="txtSpaceMM" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
-                    <asp:TextBox ID="txtSpaceMR" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtML" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtMM" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtMR" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
                 </div>
                 <div class="row">
-                    <asp:TextBox ID="txtSpaceBL" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
-                    <asp:TextBox ID="txtSpaceBM" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
-                    <asp:TextBox ID="txtSpaceBR" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtBL" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtBM" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
+                    <asp:TextBox ID="txtBR" runat="server" CssClass="square" onclick="updateSquare(this)" ReadOnly="True"></asp:TextBox>
                 </div>
             </div>
             <div>

@@ -42,85 +42,85 @@ namespace TicTacToe
         protected global::System.Web.UI.WebControls.Label lblGameState;
 
         /// <summary>
-        /// txtSpaceUL control.
+        /// txtUL control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceUL;
+        protected global::System.Web.UI.WebControls.TextBox txtUL;
 
         /// <summary>
-        /// txtSpaceUM control.
+        /// txtUM control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceUM;
+        protected global::System.Web.UI.WebControls.TextBox txtUM;
 
         /// <summary>
-        /// txtSpaceUR control.
+        /// txtUR control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceUR;
+        protected global::System.Web.UI.WebControls.TextBox txtUR;
 
         /// <summary>
-        /// txtSpaceML control.
+        /// txtML control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceML;
+        protected global::System.Web.UI.WebControls.TextBox txtML;
 
         /// <summary>
-        /// txtSpaceMM control.
+        /// txtMM control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceMM;
+        protected global::System.Web.UI.WebControls.TextBox txtMM;
 
         /// <summary>
-        /// txtSpaceMR control.
+        /// txtMR control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceMR;
+        protected global::System.Web.UI.WebControls.TextBox txtMR;
 
         /// <summary>
-        /// txtSpaceBL control.
+        /// txtBL control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceBL;
+        protected global::System.Web.UI.WebControls.TextBox txtBL;
 
         /// <summary>
-        /// txtSpaceBM control.
+        /// txtBM control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceBM;
+        protected global::System.Web.UI.WebControls.TextBox txtBM;
 
         /// <summary>
-        /// txtSpaceBR control.
+        /// txtBR control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSpaceBR;
+        protected global::System.Web.UI.WebControls.TextBox txtBR;
 
         /// <summary>
         /// lblInvalidMove control.
